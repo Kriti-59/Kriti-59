@@ -8,7 +8,9 @@
  <br>📫 Feel free to reach out to me to discuss potential collaborations, internships, or just to chat about tech and music!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-n-4a20ba255) [![Discord](https://img.shields.io/badge/discord-JohnDoe%231234-7289DA?logo=discord&style=flat-square)](https://discordapp.com/users/kriti059)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-n-4a20ba255) [![Discord](https://img.shields.io/badge/discord-Kriti%239635-7289DA?logo=discord&style=flat-square)](https://discordapp.com/users/848070782520262686)
+
+
 
 
 # 💻 Tech Stack:
