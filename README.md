@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 Hi, I'm Kriti Niure
 
-# 💫 About Me:
- I'm Kriti Niure a Computer Science student passionate about building full-stack applications that solve real-life problems. Currently pursuing my Bachelor's degree at Northwest Missouri State University and I also work as a Software Developer at Northwest Missouri State University.
+🎓 **Computer Science student @ Northwest Missouri State University** (Graduating May 2026)  
+💻 Passionate about **software development**, **machine learning**, and **data-driven problem solving**  
+📍 Currently building scalable web apps and predictive ML models to solve problems
 
- <br>🎸 Outside of coding, you can find me indulging my love for music by playing various musical instruments.
+---
 
- <br>📫 Feel free to reach out to me to discuss potential collaborations, internships, or just to chat about tech and music!
+### 💼 Experience
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-n-4a20ba255) 
+**Application Developer Intern – William Blair (Summer 2025)**  
+**Software Developer – Learning and Teaching Center, NWMSU**  
 
+---
 
+### 🧠 Technical Skills
+**Languages:** Python, Java, JavaScript, TypeScript, SQL, C++, HTML, CSS  
+**Frameworks & Libraries:** Node.js, Vue.js, scikit-learn, pandas, spaCy  
+**Tools:** Azure DevOps, Git, MySQL, Tableau, Linux  
+**Interests:** Machine Learning, Data Engineering, Web Development  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+### 🎯 What I’m Looking For
+I’m currently seeking **Software Engineering** or **Machine Learning Engineer roles** 
+---
+
+### 📫 Connect With Me
+- 📧 Email: [kritinewray@gmail.com]  
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/kriti-n-4a20ba255/))  
+---
