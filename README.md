@@ -24,11 +24,6 @@
 
 ---
 
-### 🎯 What I’m Looking For
-
-I’m currently seeking **Software Engineering** or **Machine Learning Engineer roles** 
-
----
 
 ### 📫 Connect With Me
 - 📧 Email: [kritinewray@gmail.com](mailto:kritinewray@gmail.com)
