@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Kriti Niure
 
 🎓 **Computer Science student @ Northwest Missouri State University** (Graduating May 2026)  
+
 💻 Passionate about **software development**, **machine learning**, and **data-driven problem solving**  
+
 📍 Currently building scalable web apps and predictive ML models to solve problems
 
 ---
@@ -9,6 +11,7 @@
 ### 💼 Experience
 
 **Application Developer Intern – William Blair (Summer 2025)**  
+
 **Software Developer – Learning and Teaching Center, NWMSU**  
 
 ---
@@ -22,10 +25,14 @@
 ---
 
 ### 🎯 What I’m Looking For
+
 I’m currently seeking **Software Engineering** or **Machine Learning Engineer roles** 
+
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: [kritinewray@gmail.com]  
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/kriti-n-4a20ba255/))  
+- 📧 Email: [kritinewray@gmail.com](mailto:kritinewray@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kriti-n-4a20ba255/)
+
+
 ---
