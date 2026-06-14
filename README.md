@@ -11,16 +11,22 @@
 ### 💼 Experience
 
 **Cybersecurity PBL Intern – Northwest Missouri State University (Spring 2026)**
+
 **Application Developer Intern – William Blair (Summer 2025)**  
+
 **Software Developer – Learning and Teaching Center, NWMSU**  
 
 ---
 
 ### 🧠 Technical Skills
 **Languages:** Python, SQL, JavaScript, TypeScript
+
 **Data Engineering:** pandas, ETL/data pipelines, data validation & quality testing, PostgreSQL, SQLite
+
 **Frameworks & Libraries:** FastAPI, Node.js, React, Vue, scikit-learn, spaCy 
+
 **Tools:** Azure DevOps, Git, MySQL, Tableau, Linux  
+
 **Interests:** Machine Learning, Data Engineering, Web Development  
 
 ---
